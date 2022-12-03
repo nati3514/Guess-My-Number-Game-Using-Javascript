@@ -8,3 +8,6 @@ Implement a game rest functionality, so that the player can make a new guess! He
 4. Also restore the original background color (#222) and number width (15rem)
 
 GOOD LUCK 😀 
+
+![js1](https://user-images.githubusercontent.com/103646926/205464126-40e6ad77-53a6-4dfb-8220-6def878dce0b.png)
+
